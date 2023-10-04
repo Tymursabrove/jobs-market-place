@@ -2,7 +2,7 @@
 
 ## The World IT jobs MarketPlace - Part-time jobs and gigs marketplace platform
 
-An android mobile application for IT jobs and gigs. 
+An Cross Platform Mobile application for IT jobs and gigs. 
 There are several functionalities such as posting jobs/talents, save/apply, chat, profile update.
 
 
